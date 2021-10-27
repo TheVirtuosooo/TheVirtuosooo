@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheVirtuosooo
+- 👀 I’m interested in Web Development using Django
+- 🌱 I’m currently learning Django, CSS and javascript
+- 💞️ I’m looking to collaborate on the project/s I will be uploading here :)
+- 📫 How to reach me: you can send a message thru facebook(John Patrick Gayeta) and e-mail(johnpat.gayeta@gmail.com)
